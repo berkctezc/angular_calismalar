@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "available": true,
+      "desc": "Asus ZenBook",
+      "imageUrl": "https://images.unsplash.com/photo-1493119508027-2b584f234d6c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 250,
+      "categoryId": 2,
+      "available": true,
+      "desc": "Razer",
+      "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1047&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "price": 700,
+      "categoryId": 2,
+      "available": true,
+      "desc": "Logitech",
+      "imageUrl": "https://www.logitech.com/assets/65027/5/k740-refresh-gallery-image.png"
+    },
+    {
+      "id": 4,
+      "name": "Earbuds",
+      "price": 400,
+      "categoryId": 3,
+      "available": true,
+      "desc": "Apple",
+      "imageUrl": "https://i.ebayimg.com/images/g/4G0AAOSwVNxaSu37/s-l300.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Guitar Amp",
+      "price": 2000,
+      "categoryId": 3,
+      "available": true,
+      "desc": "Marshall",
+      "imageUrl": "https://media.sweetwater.com/api/i/q-82__ha-962f4b6a4f6e92d8__hmac-fef656c06d5e1407448db791a76d6a12b9e44389/images/items/750/JVM210C-large.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bluetooth Speaker",
+      "price": 200,
+      "categoryId": 3,
+      "available": true,
+      "desc": "JBL",
+      "imageUrl": "https://www.bhphotovideo.com/images/images1000x1000/jbl_jblboomboxblkam_boombox_portable_bluetooth_speaker_1359585.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Beer",
+      "price": 15,
+      "categoryId": 4,
+      "available": true,
+      "desc": "German Local Beer",
+      "imageUrl": "https://www.wur.nl/upload_mm/6/c/c/83abc27b-cbb3-48b2-81ee-f8515f7cad40_The%20Science%20of%20beer_d196298f_490x330.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Espresso",
+      "price": 10,
+      "categoryId": 4,
+      "available": true,
+      "desc": "Italian Coffee",
+      "imageUrl": "https://www.italymagazine.com/sites/default/files/styles/624xauto/public/feature-story/leader/cappuccino_loves_italy.jpg?itok=8UdQmWQD"
+    },
+    {
+      "id": 9,
+      "name": "Phone",
+      "price": 300,
+      "categoryId": 5,
+      "available": true,
+      "desc": "Nokia 6600",
+      "imageUrl": "https://www.formatnasilatilir.net/wp-content/uploads/Nokia-6600-Nas%C4%B1l-Format-At%C4%B1l%C4%B1r.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Computers"
+    },
+    {
+      "id": 2,
+      "name": "Computer Peripherals"
+    },
+    {
+      "id": 3,
+      "name": "Music"
+    },
+    {
+      "id": 4,
+      "name": "Drinks"
+    },
+    {
+      "id": 5,
+      "name": "Communication"
+    }
+  ]
+}

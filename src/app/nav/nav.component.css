@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
+navbar-brand{
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 150%;
+}
+h3{
+    display: inline-block;
+}
+.nav-item{
+    font-size: 75%;
+}

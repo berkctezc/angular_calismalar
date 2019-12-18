@@ -1,0 +1,13 @@
+<h3>{{title}}</h3>
+
+<div class="list-group">
+  <a class="list-group-item active">All Items</a>
+</div>
+
+<div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex">
+        <a routerLink="/products" class="p-2 text-muted">All Items</a>
+      <a *ngFor="let kategori of categories" routerLink="/products/category/{{kategori.id}}" class="p-2 text-muted">{{kategori.name}}</a>
+    </nav>
+    
+  </div>
